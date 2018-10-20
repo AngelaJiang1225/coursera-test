@@ -1,0 +1,3 @@
+in lecture 9 link-same-page.html what is the function of #?????
+like <li><a href="#section1">#section1</a></li>??
+to realize this,whats the function of <section id="section1">?
